@@ -1,0 +1,4 @@
+﻿  exe4.cpp
+C:\רבקי כץ\C++\exe4\exe4\exe4.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\רבקי כץ\C++\exe4\exe4\exe4.cpp(18,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  exe4.vcxproj -> C:\רבקי כץ\C++\exe4\x64\Debug\exe4.exe
